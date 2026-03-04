@@ -3,7 +3,7 @@
 Free AI-powered background remover built with Python and Streamlit.
 
 ## Live Demo
-(your streamlit link after deployment)
+https://removebg-4rwpzsfhiprwtjsap2bwzf.streamlit.app/
 
 ## Features
 - Remove background from any image instantly
