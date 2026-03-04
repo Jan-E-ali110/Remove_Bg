@@ -1,0 +1,4 @@
+rembg
+pillow
+streamlit
+numpy
