@@ -1,4 +1,5 @@
-rembg
+rembg[cpu]
 pillow
 streamlit
+
 numpy
